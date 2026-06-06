@@ -40,7 +40,7 @@ nav a:hover {
 
 .container {
     width: 90%;
-    max-margin: 1000px;
+    max-width: 1000px;
     margin: auto;
     text-align: center;
     padding: 50px 20px;
@@ -132,6 +132,10 @@ button:hover {
     margin-top: 10px;
     border-radius: 10px;
     box-shadow: 0 4px 12px rgba(0.0.0.0,15);
+}
+
+.blog-card hr {
+    margin: 20px 0;
 }
 
 .profile-photo {
