@@ -31,6 +31,8 @@ The website shows my personal profile, education background, hard and soft skill
 ## Blog Page
 [!Blog1](images/blog_1.png)
 [!Blog2](images/blog_2.png)
+[!Blog3](images/blog_3.png)
+[!Blog4](images/blog_4.png)
 
 ## Contact Page
 [!Contact](images/contact.png)
