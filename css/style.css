@@ -110,6 +110,7 @@ button:hover {
     box-shadow: 0 4px 12px rgba(0,0,0,0.1);
     transition: 0.3s ease;
     text-align: left;
+    border-left: 6px solid #4FC3F7;
 }
 
 .blog-card:hover {
@@ -149,6 +150,12 @@ button:hover {
     border-left: 6px solid #4FC3F7;
 }
 
+.skill-card:hover {
+    transform: translateY(-5px);
+    transition: 0.3s ease;
+    box-shadow: 0 12px 25px rgba(0,0,0,0.2);
+}
+
 .skill-card h2{
     color: #1e3a8a;
     margin-bottom: 15px;
@@ -168,6 +175,7 @@ button:hover {
     box-shadow: 0 4px 12px rgba(0, 0,0,0.1);
     border-radius: 12px;
     text-align: left;
+    border-left: 6px solid #4FC3F7;
 }
 
 .contact-card p {
